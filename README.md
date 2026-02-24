@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Deepanshu Arora 👋
 
-<!--
-**Deepanshu0010/Deepanshu0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Data Science) Student  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C, C++, Java, Python
+- Flask, MySQL
+- HTML, CSS, JavaScript, React (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Major Project
+### IQAC Management System
+✔ Web-based management system  
+✔ Authentication & Dashboards  
+✔ Deployed Online  
+
+## 📫 Contact
+Email: deepanshu091457@gmail.com  
+LinkedIn: https://www.linkedin.com/in/deepanshuarora200
